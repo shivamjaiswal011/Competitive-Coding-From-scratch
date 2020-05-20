@@ -68,11 +68,11 @@ Some Commonly used For loops and their time Complexity
 
             For loops                          Their Corresponding time Complexity
 
-    1. for( i=0;i<N:i++)                            O( N ) 
+    1. for( i=0;i<N:i++)                            O( N ) // For summation or subtraction
 
-    2. for( i=0;i<N;i*=2)                           O( logN )   
+    2. for( i=0;i<N;i*=2)                           O( logN ) // for divison or multiplication  
 
-    3. for(i=0;i<N;i++)                             O( NxN )  
+    3. for(i=0;i<N;i++)                             O( NxN )  //for nested loops multiple all complexities
        {
          for(j=0;j<N;j++)
          //nested loops
