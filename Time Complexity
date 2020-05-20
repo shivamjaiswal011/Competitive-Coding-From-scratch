@@ -1,7 +1,7 @@
 Resources To learn the basics : https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems
 
 Question:Why we find it ?
-Answer  :TO calculate how much time in seconds our program will take for the worst case senario and see if it's within the
+Answer  :To calculate how much time our program will take in seconds for the worst case senario and see if it's within the
          constraints or not.
          
 Constraints are probably the most important part of the problem.
@@ -11,13 +11,13 @@ Constraints are probably the most important part of the problem.
 3. They can tell you about data type that you should be using.
 
 Part 1. Time Complexity 
-Most of the plateforms uses 1 sec to perdorm 10^8 operations 
+Most of the platforms uses 1 sec to perform 10^8 operations 
 Suppose you perform x operations
 
 10^8 operations = 1 sec
 x operation will take = x/10^8 secs
 
-In generation you will have the time limit of 1-2 secs to pass all test cases so ,
+Generally you will have the time limit of 1-2 secs to pass all the test cases so ,
 your number of operation must not exceed 10^8 operations.
 
 Now how to calculate number of operations ?
@@ -35,9 +35,9 @@ Now if you want time in seconds then that will be = 10^7 * 7 / 10^8 = 7* 10^-1 =
 
 So its easy to observe that we just need to limit our number of operations to 10^8 for passing all test cases.
 
-How you can easly find the limit of your program's complexity according to given Constrainst ?
+How you can easly find the limit of your program's complexity according to given Constraints ?
 
-Remember these constraints and the maxximum time limit you can have for these constraints .
+Remember these constraints and the maximum time limit you can have for these constraints .
 
 Constraints              Time Complexity
 
@@ -63,9 +63,9 @@ Some Commonly used For loops and their time Complexity
 
 1. for( i=0;i<N:i++)                   O( N ) // If in updation operation of summation or substraction then complexity will always be in linear .
 
-2. for( i=0:i<N;i*=2)                  O( logN ) // If in updation operation of multiplication or division is performed the complexity will be in logirithmic. 
+2. for( i=0;i<N;i*=2)                  O( logN ) // If in updation operation of multiplication or division is performed the complexity will be in logirithmic. 
 
-3. for(i=0;i<N;i++)                    O( N*N ) // In nested loops multiply the Complexity of all loops to get final complexity
+3. for(i=0;i<N;i++)                    O( N*N ) // In nested loops, multiply the Complexity of all loops to get final complexity
    {
      for(j=0;j<N;j++)
      //nested loops
@@ -75,7 +75,7 @@ Few other tips.
 
 1. Always remember the time complexity for famous algorithms like divide and conquore it always results in logiritmic complexity.
 
-2. Whenever learn any built in functions always remember its time Complexity eg. sort()=N*logN . 
+2. Whenever you learn any built in functions always remember its time Complexity eg. sort()=N*logN . 
 
 3. Always find time complexity for the worst case.
 
