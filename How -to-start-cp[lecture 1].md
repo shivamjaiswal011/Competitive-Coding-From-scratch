@@ -25,4 +25,9 @@ For basic of data structures you can visit : https://youtu.be/92S4zgXN17o
  
 For basic of programming language C visit :  https://youtu.be/AWliApDc61w 
 
+For beginners best book for data structures and algorithms is : https://drive.google.com/file/d/1r8RhR3lBVptlGOvoQ2i9hYZ2BcmX9zAN/view?usp=sharing
+
+For advanced people in cp best book for practice is :https://drive.google.com/open?id=1DEK28TI8fKmy9JY4E7tB07jn2VrgLO1m
+
+For interview preparation :https://drive.google.com/file/d/14X5jJpfWwdfzqEr9kNxlhFJEmW2s6Z6A/view?usp=sharing
         // Happy Coding //
