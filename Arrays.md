@@ -1,0 +1,62 @@
+#header
+##header2
+
+
+    Resources To learn the basics of Arrays 
+https://www.youtube.com/watch?v=55l-aZ7_F24&list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP
+
+    Arrays (part-1) tutorial (starting with basic questions)
+
+In this video I have discussed some basic questions on arrays so anyone who want to learn the implementation part must watch and learn how we built our logic step by step.    
+
+https://www.youtube.com/watch?v=GsFiKFUrT1c&t=930s
+
+Link to 1st question : https://codeforces.com/contest/34/problem/A
+
+Link to 2nd question : https://codeforces.com/contest/1353/problem/B
+
+Link to my solutions 
+1st : https://codeforces.com/contest/34/submission/81169107
+2nd : https://codeforces.com/contest/1353/submission/81171142
+
+PDF Used in video link : https://drive.google.com/file/d/1370D4Fqs75FvSmmu4r5482ue8KDPg_0W/view?usp=sharing
+
+    Arrays (part-2) tutorial (Count array and one other famous technique)
+
+In this video I have discussed very important algorithm count sort and one another technique based on these we have done two Interview questions asked in Amazon, riverbed etc.
+
+https://youtu.be/dGFoofGaARY
+
+Link to problem : https://www.interviewbit.com/problems/find-duplicate-in-array/
+
+Link to pdf : https://drive.google.com/file/d/1PzfX-vmXMoQ8natD-1y8DmINr5SLzkpG/view
+
+    Arrays (part-3) tutorial (Pre-Sum technique to calculate query range questions)
+
+In this video I have discussed how we can do some of the range-query questions without using segment tree and in O(N) complexity. Its a very Important concept which is used in many other questions as well.
+
+https://youtu.be/-UX1tVhqpnw
+
+LINK TO PDF : https://drive.google.com/file/d/13NtWWM4DEDW9tzxpcD3pqgdOaC-vJBHt/view
+
+    Arrays (part-4) tutorial (KADANE'S ALGORITHM TO CALCULATE MAXIMUM SUM IN SUB-ARRAY IN O(N) & BREIF ABOUT VECTORS)  
+
+In this video I have discussed how to calculate maximum sum in a sub-array in O(N) complexity with the help of a famous algorithm Kadane's algorithm.
+
+https://youtu.be/lv1W43JxY5Q
+
+LINK TO PROBLEM : https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+
+LINK TO PDF : https://drive.google.com/file/d/1HbRv6gaGU_hN89oZW9mkEdEz5jA9WmnG/view
+
+
+    Codealittle contest-1 based on arrays
+
+In this contest you will be given 5 question based on arrays and you have to solve it in 2 Hr dificulty will be similar to interview level.  
+
+Link to contest : https://codeforces.com/contestInvitation/4377116e5bd9466d83d1f6e6cf2411299e088592
+
+
+
+
+        // Happy Coding //
