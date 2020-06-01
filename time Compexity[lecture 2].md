@@ -5,6 +5,8 @@
     Resources To learn the basics of time Complexity 
 https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems
 
+My lecture video : https://youtu.be/M_eRoHLMEJ8
+
     Question:Why we find it ?
 
 To calculate how much time our program will take in seconds for the worst case  scenario and see if it's within the constraints or not.
