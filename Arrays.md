@@ -56,6 +56,10 @@ In this contest you will be given 5 question based on arrays and you have to sol
 
 Link to contest : https://codeforces.com/contestInvitation/4377116e5bd9466d83d1f6e6cf2411299e088592
 
+Link to Video Editorial : https://youtu.be/hEKLwM9qXPc
+
+Link to Pdf : https://drive.google.com/file/d/1DqDCgVrIne3qDGymWWKQuSoMh8eF5VAg/view?usp=sharing
+
 
 
 
