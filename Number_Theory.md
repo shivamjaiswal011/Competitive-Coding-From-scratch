@@ -23,6 +23,7 @@ vector<int> fact(int N)
 
  {
 	vector<int> factor;
+	
 	for(int i; i<= sqrt(N); i++)
 	{
 		if(N % i == 0)
