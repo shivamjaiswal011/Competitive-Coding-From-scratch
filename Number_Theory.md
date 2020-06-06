@@ -20,7 +20,8 @@ int gcd(int a, int b)
     Factors
 
 vector<int> fact(int N)
-{
+
+ {
 	vector<int> factor;
 	for(int i; i<= sqrt(N); i++)
 	{
@@ -32,21 +33,21 @@ vector<int> fact(int N)
 		}
 	}	
 	return factor;
-}     
+ }     
 
     Prime (Sieve algo)
 
- vector<bool> isprime(1e6+1,true);
+vector<bool> isprime(1e6+1,true);
 
-vector<ll int> primes;
+    vector<ll int> primes;
 
-void sieve()
-{
-  ll int i,j;
-  isprime[0] = false;
-  isprime[1] = false;
+    void sieve()
+ {
+    ll int i,j;
+    isprime[0] = false;
+    isprime[1] = false;
 
-  for(i=2; i<=1e6 ;i++)
+    for(i=2; i<=1e6 ;i++)
   {
     if(isprime[i])
     {
@@ -58,7 +59,7 @@ void sieve()
       }
     }
   }
-} 
+ } 
    
     Number Theory (part-1) tutorial (1 Qustion on sieve, Prime-Factors, Totient Function )
 
@@ -70,15 +71,16 @@ Question Link : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=
 
 vector<bool> isprime(1e6+1,true);
 
-vector<ll int> primes;
+    vector<ll int> primes;
 
-void sieve()
-{
-  ll int i,j;
-  isprime[0] = false;
-  isprime[1] = false;
+    void sieve()
+    
+ {
+    ll int i,j;
+    isprime[0] = false;
+    isprime[1] = false;
 
-  for(i=2; i<=1e6 ;i++)
+    for(i=2; i<=1e6 ;i++)
   {
     if(isprime[i])
     {
@@ -94,7 +96,8 @@ void sieve()
 
 
 vector<int> primefactors(ll int N)
-{
+
+ {
     vector<int> factors;
     ll pf_idx = 0, pf=primes[pf_idx];
 
