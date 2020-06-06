@@ -41,8 +41,7 @@ vector<int> fact(int N)
     Prime (Sieve algo)
 
 vector<bool> isprime(1e6+1,true);
-
-    vector<ll int> primes;
+vector<ll int> primes;
 
    void sieve()
     
