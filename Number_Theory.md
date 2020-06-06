@@ -7,7 +7,7 @@ Link : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&categor
 
     Number Theory (part-1) tutorial (GCD, Factors, Prime)
 
-Link :  
+Link :  https://youtu.be/m6uROtdC-q4
 
 
     Gcd Algorithm
