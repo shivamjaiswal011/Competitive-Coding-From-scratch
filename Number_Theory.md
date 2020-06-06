@@ -47,12 +47,14 @@ vector<bool> isprime(1e6+1,true);
    void sieve()
     
  {
+ 
     ll int i,j;
     isprime[0] = false;
     isprime[1] = false;
 
     for(i=2; i<=1e6 ;i++)
   {
+  
     if(isprime[i])
     {
       primes.push_back(i);
@@ -62,7 +64,9 @@ vector<bool> isprime(1e6+1,true);
         isprime[j]=false;
       }
     }
+    
   }
+  
  } 
    
     Number Theory (part-1) tutorial (1 Qustion on sieve, Prime-Factors, Totient Function )
@@ -80,12 +84,14 @@ vector<bool> isprime(1e6+1,true);
     void sieve()
     
  {
+ 
     ll int i,j;
     isprime[0] = false;
     isprime[1] = false;
 
     for(i=2; i<=1e6 ;i++)
   {
+  
     if(isprime[i])
     {
       primes.push_back(i);
@@ -95,6 +101,7 @@ vector<bool> isprime(1e6+1,true);
         isprime[j]=false;
       }
     }
+    
   }
 }
 
@@ -102,6 +109,7 @@ vector<bool> isprime(1e6+1,true);
 vector<int> primefactors(ll int N)
 
  {
+ 
     vector<int> factors;
     ll pf_idx = 0, pf=primes[pf_idx];
 
@@ -116,6 +124,7 @@ vector<int> primefactors(ll int N)
     }
     if(N != 1) factors.push_back(N);
     return factors;
+    
 }
 
 
