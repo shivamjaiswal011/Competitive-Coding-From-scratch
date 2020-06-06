@@ -13,16 +13,18 @@ Link :
     Gcd Algorithm
 
 int gcd(int a, int b)
-{
-	return (b == 0) ? a : gcd(b, a % b);
-}    
+
+ {
+     return (b == 0) ? a : gcd(b, a % b);
+ }    
  
     Factors
 
 vector<int> fact(int N)
 
  {
-	vector<int> factor;
+ 
+    vector<int> factor;
 	
 	for(int i; i<= sqrt(N); i++)
 	{
@@ -42,7 +44,8 @@ vector<bool> isprime(1e6+1,true);
 
     vector<ll int> primes;
 
-    void sieve()
+   void sieve()
+    
  {
     ll int i,j;
     isprime[0] = false;
