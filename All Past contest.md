@@ -25,7 +25,7 @@ Link to contest : https://codeforces.com/contestInvitation/6134b80446ec8fe60c7a5
 
 Link to editorial : https://youtu.be/qwdpu09wF3U
 
-     Contest 4 based on Bit-masking
+     Contest 5 based on Bit-masking
 
 Link to contest : https://codeforces.com/contestInvitation/2f1acb4a733c9ee47ac3974001e2eb815aa792b4
 
