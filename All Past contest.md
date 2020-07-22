@@ -13,7 +13,7 @@ Link to contest : https://codeforces.com/contestInvitation/57cb7c90836ae129ab29d
 
 Link to editorial : https://youtu.be/J7N-2a4wv-0  
 
-    Contest 3 based on Strings 
+Contest 3 based on Strings 
 
 Link to contest : https://codeforces.com/contestInvitation/c1e985a9cc2bdcc0ae980029870384526ade7035  
 
