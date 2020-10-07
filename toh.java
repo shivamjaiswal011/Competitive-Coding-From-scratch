@@ -1,22 +1,19 @@
+#include<iostream>
 
-public class toh {
-
-	static void ToH(int n, char A, char B, char C) 
-    { 
-        if (n == 1) 
-        { 
-            System.out.println("Move 1 from " +  A + " to " + C); 
-            return; 
-        } 
-        ToH(n-1, A, C, B); 
-        System.out.println("Move " + n + " from " +  A + " to " + C); 
-        ToH(n-1, B, A, C); 
-    } 
-      
-   
-    public static void main(String args[]) 
-    { 
-        int n = 2; 
-        ToH(n, 'A', 'B', 'C');  
-    } 
+void towerofhanoi(int n,char src,char dest,char helper)
+{ if(n==0)
+  { return;
+  }
+ 
+  towerofhanoi(n-1,src,helper,dest);
+  cout<<"Move"<<n<<" disks from "<<src<<"to "<<dest;
+  towerofhanoi(n-1,helper,dest,src);
+}
+int main()
+{
+ int n;
+ cout<<" Enter no. of Disks : ";
+ cin>>n;
+ towerofhanoi(n,'A','C','B');
+ return 0;
 }
